@@ -1,5 +1,6 @@
-Hello
-=====
+Hello-word
+==========
 
-My first repository on GitHub.
-i love fast food :*
+My first repository on GitHub!
+
+i love :coffee:, :pizza:, and :dancer:
